@@ -9,7 +9,6 @@ C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\bin\Debug\net5.0\No_Staff_Menu-Customer.pdb
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\bin\Debug\net5.0\No_Staff_Menu-Customer.Views.dll
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\bin\Debug\net5.0\No_Staff_Menu-Customer.Views.pdb
-C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.csproj.AssemblyReference.cache
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.AssemblyInfoInputs.cache
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.AssemblyInfo.cs
@@ -22,13 +21,11 @@ C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.TagHelpers.input.cache
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.TagHelpers.output.cache
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.RazorCoreGenerate.cache
-C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.RazorTargetAssemblyInfo.cache
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.RazorTargetAssemblyInfo.cs
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.Views.pdb
