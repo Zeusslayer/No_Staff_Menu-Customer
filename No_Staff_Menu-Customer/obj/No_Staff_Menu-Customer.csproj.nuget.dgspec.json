@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MehmetDokuyucu\\Source\\Repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj": {}
+    "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MehmetDokuyucu\\Source\\Repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj": {
+    "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MehmetDokuyucu\\Source\\Repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj",
+        "projectUniqueName": "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj",
         "projectName": "No_Staff_Menu-Customer",
-        "projectPath": "C:\\Users\\MehmetDokuyucu\\Source\\Repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj",
+        "projectPath": "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj",
         "packagesPath": "C:\\Users\\MehmetDokuyucu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MehmetDokuyucu\\Source\\Repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\obj\\",
+        "outputPath": "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MehmetDokuyucu\\AppData\\Roaming\\NuGet\\NuGet.Config",
