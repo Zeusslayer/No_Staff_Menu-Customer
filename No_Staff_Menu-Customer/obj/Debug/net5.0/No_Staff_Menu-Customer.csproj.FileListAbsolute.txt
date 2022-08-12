@@ -34,3 +34,4 @@ C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.pdb
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.genruntimeconfig.cache
 C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.csproj.CopyComplete
+C:\Users\MehmetDokuyucu\source\repos\mehmetdkyc\No_Staff_Menu-Customer\No_Staff_Menu-Customer\obj\Debug\net5.0\No_Staff_Menu-Customer.csproj.AssemblyReference.cache
