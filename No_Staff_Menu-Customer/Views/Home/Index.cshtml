@@ -1,4 +1,5 @@
 ﻿@page
+@using No_Staff_Menu_Customer.Models
 @{
 
 }
@@ -11,7 +12,8 @@
                 <h2>Delivering great food for more than 2 day!</h2>
 
                 <div class="btns">
-                    <a href="#menu" class="btn-menu animated fadeInUp scrollto">Our Menu</a>
+                    <a href="@Url.Action("Send","Home", new OrderModel { TableId = 1, OrderTime = DateTime.UtcNow})" class="btn-menu animated fadeInUp scrollto">Our Menu</a>
+                    
                 </div>
             </div>
             <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">

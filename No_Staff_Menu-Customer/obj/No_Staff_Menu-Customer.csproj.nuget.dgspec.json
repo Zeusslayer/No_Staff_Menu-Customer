@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj": {}
+    "C:\\Users\\Selim\\Source\\Repos\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj": {
+    "C:\\Users\\Selim\\Source\\Repos\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj",
+        "projectUniqueName": "C:\\Users\\Selim\\Source\\Repos\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj",
         "projectName": "No_Staff_Menu-Customer",
-        "projectPath": "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj",
-        "packagesPath": "C:\\Users\\MehmetDokuyucu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MehmetDokuyucu\\source\\repos\\mehmetdkyc\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\obj\\",
+        "projectPath": "C:\\Users\\Selim\\Source\\Repos\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer.csproj",
+        "packagesPath": "C:\\Users\\Selim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selim\\Source\\Repos\\No_Staff_Menu-Customer\\No_Staff_Menu-Customer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MehmetDokuyucu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
